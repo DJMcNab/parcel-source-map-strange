@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["x"],"mappings":";AAAO,aAAA,OAAA,eAAA,QAAA,aAAA,CAAA,OAAA,IAAA,QAAA,OAAA,EAAA,IAAMA,EAAI,GAAV,QAAA,EAAA","file":"index.js","sourceRoot":"..","sourcesContent":["export const x = 10;"]}

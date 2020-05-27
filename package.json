@@ -1,0 +1,14 @@
+{
+  "name": "source-map-bug-repo",
+  "version": "0.1.0",
+  "description": "A demonstration of a bug within parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.js"
+  },
+  "author": "DJMcNab",
+  "license": "Unlicense",
+  "dependencies": {
+    "example": "file:./package"
+  }
+}

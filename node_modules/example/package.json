@@ -1,0 +1,14 @@
+{
+  "name": "source-map-bug-subpackage",
+  "version": "0.1.0",
+  "description": "A demonstration of a bug within parcel",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "parcel index.js"
+  },
+  "author": "DJMcNab",
+  "license": "Unlicense",
+  "devDependencies": {
+    "parcel": "1.12.4"
+  }
+}
